@@ -1,3 +1,10 @@
 # Task-DB
 
 tugas buat web Register,Login,dan page home dan logout.
+
+Kelompok
+1.Nicky Panggih pangestu
+2.Rifan fadilah
+3.Fathin faishal rois
+$.Aditya Tri H
+6.ipan julian
