@@ -1,6 +1,6 @@
 # Task-DB
 
-tugas buat web Register,Login,dan page home dan logout.
+tugas buat web Register,Login,dan page home.
 
 Kelompok 9
 
